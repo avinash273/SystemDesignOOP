@@ -1,4 +1,4 @@
-public enum AccountClass {
+public enum AccountStatus {
     ACTIVE,
     PENDING,
     CANCELLED,
