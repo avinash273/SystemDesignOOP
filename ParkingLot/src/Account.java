@@ -3,6 +3,6 @@ public abstract class Account {
     private String password;
     private AccountStatus status;
     private Person person;
-    //dummy.
+    //dummy
     public abstract boolean resetPassword();
 }
